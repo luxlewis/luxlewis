@@ -14,7 +14,7 @@
 - 💻 I’m currently teaching myself python/django and javascript.
 
 
-<p align="center">
+<p>
   <a href="https://github.com/luxlewis/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=luxlewis&show_icons=true" />
   </a>
