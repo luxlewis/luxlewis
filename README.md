@@ -11,7 +11,7 @@
 </p>
 
 - 🧠 I’m interested in gender and technology and support diversity in digital spaces
-- 💻 I’m currently teaching myself python/django and javascript.
+- 💻 I’m currently teaching myself python/django and R.
 
 
 <p>
