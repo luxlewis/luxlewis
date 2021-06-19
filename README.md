@@ -10,8 +10,9 @@
   </a>
 </p>
 
-- 🧠 I’m interested in gender and technology and support diversity in digital spaces
-- 💻 I’m currently teaching myself python/django and R.
+- 🧠 I’m interested in gender and technology and support diversity in digital spaces.
+- 💻 I’m currently teaching myself python and R to begin addressing challenges through data insights.
+- 🧮 Data is power and I am interested in interrogating how differentials in power impact how data is collected and used, and what this means for data's potential as a force for good or harm.
 
 
 <p>
